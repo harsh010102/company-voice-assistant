@@ -1,0 +1,7 @@
+{
+  "name": "company-voice-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive voice assistant answering questions about Mensch und Maschine and Tyson Foods, grounded only in the provided documents."
+}
